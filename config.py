@@ -1,4 +1,4 @@
-BOT_TOKEN = '8300663637:AAFvsT57tVyZ9zMDgoly9oHFIFzZZtEFiW4'
+BOT_TOKEN = '8341098810:AAGMLOq6Z5fWcG__2fHiIU-CSF9GjghwXsM'
 ADMIN_USER_ID = 7657272174  # Replace with your Telegram user ID 
 # RECEPTIONIST_ID will be set automatically by the bot
 DASHBOARD_PASSWORD = 'cpode'  # Change this to a strong password 
@@ -23,6 +23,7 @@ GROUP_INVITE_LINK = 'https://t.me/+1xpildxrOCgwNjZh'  # Replace with your actual
 API_ID = "25772743"
 API_HASH = "ec85f9e60d22708743b2252df0295afe"
 CHAT_ID = -1002753549748  # Channel/Group ID (as integer, not string)
+
 
 
 
