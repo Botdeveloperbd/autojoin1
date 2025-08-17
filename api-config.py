@@ -26,11 +26,11 @@ class APIConfig:
                 'HOST': '0.0.0.0',
                 'PORT': 5001,
                 'DEBUG': True,
-                'FRONTEND_URL': 'https://admin-8f9s.onrender.com',
+                'FRONTEND_URL': 'https://admin1-o77n.onrender.com',
                 'CORS_ORIGINS': [
-                    'https://admin-8f9s.onrender.com',
-                    'https://admin-8f9s.onrender.com',
-                    'https://admin-8f9s.onrender.com'
+                    'https://admin1-o77n.onrender.com',
+                    'https://admin1-o77n.onrender.com',
+                    'https://admin1-o77n.onrender.com'
                 ],
                 'MEDIA_PATH': './media',
                 'DATABASE_PATH': './users.db'
@@ -40,9 +40,10 @@ class APIConfig:
                 'HOST': '0.0.0.0',
                 'PORT': 5001,
                 'DEBUG': False,
-                'FRONTEND_URL': 'https://admin-8f9s.onrender.com',
+                'FRONTEND_URL': 'https://admin1-o77n.onrender.com',
                 'CORS_ORIGINS': [
-                    'https://admin-8f9s.onrender.com',
+                    'https://admin1-o77n.onrender.com',
+                    'https://admin1-o77n.onrender.com',
                     'https://staging.your-domain.com:3000'
                 ],
                 'MEDIA_PATH': './media',
@@ -53,10 +54,10 @@ class APIConfig:
                 'HOST': '0.0.0.0',
                 'PORT': 5001,
                 'DEBUG': False,
-                'FRONTEND_URL': 'https://admin-8f9s.onrender.com',
+                'FRONTEND_URL': 'https://admin1-o77n.onrender.com',
                 'CORS_ORIGINS': [
-                    'https://admin-8f9s.onrender.com',
-                    'https://admin-8f9s.onrender.com'
+                    'https://admin1-o77n.onrender.com',
+                    'https://admin1-o77n.onrender.com',
                 ],
                 'MEDIA_PATH': './media',
                 'DATABASE_PATH': './users.db'
@@ -220,4 +221,5 @@ if __name__ == "__main__":
     # Example: Update environment
 
     # api_config.update_environment('production') 
+
 
